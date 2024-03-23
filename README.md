@@ -4,7 +4,7 @@
 
 
 
-![alt text](https://github.com/BheZelmat/Transformer-Model-for-chat-Summarization.-Using-TensorFlow/blob/main/Img.png?raw=true)
+![alt text](https://github.com/BheZelmat/Transformer-Model-for-chat-Summarization.-Using-TensorFlow/blob/main/Img.jpg?raw=true)
 
 
 
